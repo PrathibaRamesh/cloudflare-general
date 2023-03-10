@@ -1,0 +1,37 @@
+.homepage {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.nav-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-item {
+    margin-bottom: 1rem;
+}
+
+.nav-button {
+    display: block;
+    padding: 1.5rem 3rem;
+    font-size: 1.5rem;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    background-color: #007bff;
+    border-radius: 2rem;
+    transition: background-color 0.2s ease -in -out;
+}
+
+    .nav-button:hover {
+        background-color: #0056b3;
+    }

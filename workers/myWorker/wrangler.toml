@@ -1,0 +1,9 @@
+name = "myworker"
+type = "javascript"
+main = "src/index.js"
+compatibility_date = "2023-03-07"
+account_id = "7b500fd6d92c70a6b908efe67f4a81b3"
+workers_dev = true
+kv_namespaces = [
+  { binding = "myNamespace", id = "f7c0f95c407544c8acd29d714b4f12ea" }
+]
