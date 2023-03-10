@@ -1,9 +1,0 @@
-{
-  "dependencies": {
-    "@cloudflare/kv-asset-handler": "^0.3.0",
-    "cloudflare-kv": "^2.0.3",
-    "latest-version": "^7.0.0",
-    "npm": "^9.6.0",
-    "wrangler": "^2.12.1"
-  }
-}
